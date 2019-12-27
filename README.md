@@ -2,6 +2,8 @@
 
 A new Flutter package.
 
+![screen_shot.png](https://upload-images.jianshu.io/upload_images/5459987-b8b6d6c5efd846c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## Getting Started
 
 This project is a starting point for a Dart
