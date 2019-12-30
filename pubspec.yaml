@@ -1,6 +1,6 @@
 name: round_path_widget
 description: This widget supports setting different radian sizes for different angles, and can set functions such as circle, rounded rectangle, etc. according to requirements.
-version: 0.0.3
+version: 0.1.0
 author: Yxjie <yxjie5506@gmail.com>
 homepage: https://github.com/Yxjie/round_path_widget
 
