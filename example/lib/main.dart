@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:round_path_widget/round_path_widget.dart';
+import 'package:round_path_widget/shelf.dart';
 
 void main() => runApp(MyApp());
 
